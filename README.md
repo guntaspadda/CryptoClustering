@@ -1,2 +1,2 @@
 # CryptoClustering
-Repo for data bootcamp module 19 assignment
+Used Python, scikit-learn to build machine learning model to cluster cryptocurrency data
